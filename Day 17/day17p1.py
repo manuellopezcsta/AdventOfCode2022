@@ -186,7 +186,7 @@ def UpdateTimeEta(st, curr_rock_num, max_rocks):
       
 start = time.time()
 tower = BuildBase()
-howManyRocks = 1000000000000
+howManyRocks = 2022
 current_maxY = 0
 
 for x in range(1, howManyRocks +1):
